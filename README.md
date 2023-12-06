@@ -1,6 +1,6 @@
 # valley of fire
 <div align="center">
-    <img src="./doc/logo.jpg" width="800">
+    <img src="./doc/logo.jpg" width="580">
 </div>
 
 
